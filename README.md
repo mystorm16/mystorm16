@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![Metrics](/github-metrics.svg)
-<img decoding="async" align="center" src="https://www.chengzz.com/wp-content/themes/zibll/img/thumbnail-lg.svg" data-src="/github-metrics.svg" alt="Metrics" width="400" class="lazyload" imgbox-id="swiper-imgbox-12268" imgbox-index="10">
-<img decoding="async" src="https://www.chengzz.com/wp-content/themes/zibll/img/thumbnail-lg.svg" data-src="/github-metrics.svg" alt="Metrics" width="100%" class="lazyload" imgbox-id="swiper-imgbox-12268" imgbox-index="11">
