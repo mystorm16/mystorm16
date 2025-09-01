@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+-  🎓 I’m currently a Ph.D student in  <a href="https://mac.xmu.edu.cn/" rel="nofollow">Media Analytics and Computing Lab (MAC)</a>, Department of Computer Science and Technology, School of Informatics, Xiamen University, China.
+-  🤖 I’m interested in Robotic and Computer Vision
+-  📫 If you have any questions, feel free to email me at <a href="16mystorm@gmail.com" rel="nofollow">Media Analytics and Computing Lab (MAC)</a>
 <!--
 **mystorm16/mystorm16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
